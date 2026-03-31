@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models (VERY IMPORTANT)
+models/
+
+*.pkl
+
+# Data (optional but recommended)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
